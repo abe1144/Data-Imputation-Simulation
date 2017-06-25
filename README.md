@@ -8,4 +8,4 @@ and solutions such as imputation can be used to correct for nonresponse bias. Th
 presented in this paper attempts to investigate the effectiveness of imputation in terms of point
 estimation, under each missing mechanisms.
 
-This simulation project was done for the course Stat 454.
+This simulation project was done for the course Stat 454 offered at the University of Waterloo.
