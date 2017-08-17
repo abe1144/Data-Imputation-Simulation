@@ -1,8 +1,6 @@
 #################################################
 #                                               #
-#       Stat 454 Final Project                  #
-#       Po-Han Lin - 20470883                   #
-#       Professor ChangBao Wu                   #
+#       Simple Imputation Simulation            #                  #
 #       Created on: Apr 23, 2017                #
 #                                               #
 #################################################
